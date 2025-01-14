@@ -24,3 +24,11 @@ O objetivo deste projeto é demonstrar a minha evolução como desenvolvedor web
 
 ## Estrutura de Diretórios 📂
 
+project/
+│
+├── index.html       # Arquivo principal HTML
+├── css/
+│   └── styles.css   # Arquivo de estilos CSS
+├── assets/
+│   ├── video.mp4    # Arquivo de vídeo (opcional, se usar vídeo local)
+└── README.md        # Arquivo de documentação do projeto
